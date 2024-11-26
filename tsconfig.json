@@ -1,0 +1,13 @@
+{
+   "compilerOptions": {
+     "target": "ESNext",  // or "ES6"
+     "module": "commonjs",
+     "esModuleInterop": true,
+     "skipLibCheck": true,
+     "forceConsistentCasingInFileNames": true,
+     "emitDecoratorMetadata": true,   // Important: enables metadata reflection
+     "experimentalDecorators": true,  // Important: allows the use of decorators
+     "moduleResolution": "node"
+   }
+ }
+ 
